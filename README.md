@@ -81,7 +81,7 @@
 
 
 ## Top Respositories
-  <p align="left">
+  <p align="center">
      <a href="https://github.com/dipaksinh2/Capstone-medicare-api.git"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=Capstone-medicare-api&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Dipaksinh2/Capstone_Medicare_ui.git"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=Capstone_Medicare_ui&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/Dipaksinh2/SAFEinvest-BackendApi.git"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=SAFEinvest-BackendApi&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
