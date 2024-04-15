@@ -47,19 +47,19 @@
 
 ## Languages and Tools
 
-<p align="center"> 
+<p align="left"> 
   <h4>Back End</h4>
   <a href="https://github.com/dipaksinh2">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,vscode,eclipse,idea,junit"> 
+    <img src="https://skillicons.dev/icons?i=java,maven,spring,mysql,postman,eclipse,idea"> 
   </a> 
 </p>
 <p align="center"> 
   <h4>Front End</h4>
   <a href="https://github.com/dipaksinh2">
-    <img src="https://skillicons.dev/icons?i=nodejs,html,js,jquery,css,react,angular"> 
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,html,js,jquery,css,react,angular,ts,vscode"> 
   </a> 
 </p>
-<p align="center">
+<p align="right">
   <h4>Version Control & Cloud</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,git,github,gitlab,kubernetes,docker" />
