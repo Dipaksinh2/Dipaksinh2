@@ -67,14 +67,14 @@
 </p>
 ## My Stats:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=dipaksinh2&hide_border=true&show_icons=true&count_private=true&theme=tokyonight&border_radius=20">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=dipaksinh2&show_icons=true&count_private=true&theme=tokyonight&border_radius=20">
 </p>
 
 ## Activity On GitHub
 
 <p align="center">
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dipaksinh2&theme=tokyonight&border_radius=20" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dipaksinh2&show_icons=true&theme=tokyonight&border_radius=20" alt="GitHub Streak" />
 </a>
 </p>
 
