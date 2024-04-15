@@ -1,5 +1,5 @@
 ## Introduction
-<!--![Header](./header_image.png)-->
+![Header](./image.jpg)
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=white&vCenter=true&pause=1000&size=25" /></a>
 </p>
