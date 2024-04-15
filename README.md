@@ -47,7 +47,7 @@
 
 ## Languages and Tools
 
-<p align="left"> 
+<p align="center"> 
   <h4>Back End</h4>
   <a href="https://github.com/dipaksinh2">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,vscode,eclipse,idea,junit"> 
@@ -59,7 +59,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,html,js,jquery,css,react,angular"> 
   </a> 
 </p>
-<p align="right">
+<p align="center">
   <h4>Version Control & Cloud</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,git,github,gitlab,kubernetes,docker" />
@@ -82,10 +82,10 @@
 
 ## Top Respositories
   <p align="center">
-     <a href="https://github.com/dipaksinh2/Capstone-medicare-api.git"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=Capstone-medicare-api&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Dipaksinh2/Capstone_Medicare_ui.git"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=Capstone_Medicare_ui&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/Dipaksinh2/SAFEinvest-BackendApi.git"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=SAFEinvest-BackendApi&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/Dipaksinh2/SAFEinvest-FrontEnd.git"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=SAFEinvest-FrontEnd&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/dipaksinh2/Capstone-medicare-api.git"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=Capstone-medicare-api&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Dipaksinh2/Capstone_Medicare_ui.git"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=Capstone_Medicare_ui&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/Dipaksinh2/SAFEinvest-BackendApi.git"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=SAFEinvest-BackendApi&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/Dipaksinh2/SAFEinvest-FrontEnd.git"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=SAFEinvest-FrontEnd&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
   </p>
 
 ###
