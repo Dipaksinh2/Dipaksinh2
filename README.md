@@ -1,5 +1,6 @@
 ## Introduction
-![logo](https://raw.githubusercontent.com/dipaksinh2/dipaksinh2/main/Dipak%20Sinh%20banner.png)
+![logo](https://raw.githubusercontent.com/Dipaksinh2/Dipaksinh2/main/Dipak%20Sinh%20banner.png)
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=white&vCenter=true&pause=1000&size=25" /></a>
 </p>
