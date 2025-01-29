@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=white&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-<h2 align="center">Hey there, I'm <a href="https://github.com/dipaksinh2" target="_blank" style="text-decoration: none;">Dipak Sinh</a></h2>
+<h2 align="center">Hello, I'm <a href="https://github.com/dipaksinh2" target="_blank" style="text-decoration: none;">Dipak Sinh</a></h2>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
@@ -33,9 +33,9 @@
 
 ## What I'm Doing
 
-- 🔭 I’m currently working on **Developing a dynamic web application integrating React Js, SpringBoot, Java, MicroServices, and MYSQL for enhanced user experiences.**
+- 🔭 I’m currently working on **Developing a dynamic web application integrating React JS, SpringBoot, Java, MicroServices, and MYSQL for enhanced user experiences.**
 
-- 🌱 I’m currently learning ** AWS, Stretch, Kubernetes** & more
+- 🌱 I’m currently learning **GCP, ElasticSearch, MongoDB** & more
 
 - 👯 I’m looking to collaborate on **Innovative web development projects that push the boundaries of technology and user experience. Particularly interested in collaborations that aim to solve real-world problems through cutting-edge web applications.**
 
@@ -43,7 +43,7 @@
 
 - 💬 Ask me about **Java | Collection Framework | Rest API | JSP & Servlet | Spring Framework | Springboot | MySql | Maven | React Js | JavaScript | Angular | HTML | CSS **
 
-- 📫 How to reach me **singhdk.singh68@gmail.com**
+- 📫 How to reach me **dipak_sinh@outlook.com**
 
 
 ## Languages and Tools
@@ -51,7 +51,7 @@
 <p align="left"> 
   <h4>Back End</h4>
   <a href="https://github.com/dipaksinh2">
-    <img src="https://skillicons.dev/icons?i=java,maven,spring,mysql,postman,eclipse,idea"> 
+    <img src="https://skillicons.dev/icons?i=java,maven,spring,mysql,postman,eclipse,idea,MongoDB"> 
   </a> 
 </p>
 <p align="center"> 
@@ -81,7 +81,7 @@
 
 
 
-## Top Respositories
+## Top Repositories
   <p align="center">
      <a href="https://github.com/dipaksinh2/Capstone-medicare-api.git"><img width="20%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=Capstone-medicare-api&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Dipaksinh2/Capstone_Medicare_ui.git"><img width="20%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dipaksinh2&repo=Capstone_Medicare_ui&theme=tokyonight&border_radius=20&hide_border=false&show_icons=true" alt="github-readme-streak-stats"></a>
