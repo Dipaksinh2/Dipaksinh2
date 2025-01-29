@@ -1,7 +1,7 @@
 ## Introduction
 ![Header](./Banner.png)
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=white&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=2+%2B%20years%20of%20coding%20experience%20in%20Full%20Stack%20Java%20Developer%20Role&font=Fira%20Code&center=true&width=700&height=45&color=white&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <h2 align="center">Hello, I'm <a href="https://github.com/dipaksinh2" target="_blank" style="text-decoration: none;">Dipak Sinh</a></h2>
