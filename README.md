@@ -41,7 +41,7 @@
 
 - 🤝 I’m looking for help with **Optimizing database performance and exploring cutting-edge technologies to elevate project efficiency.**
 
-- 💬 Ask me about **Java | Collection Framework | Rest API | JSP & Servlet | Spring Framework | Springboot | MySql | Maven | React Js | JavaScript | Angular | HTML | CSS **
+- 💬 Ask me about **Java | Collection Framework | Rest API | JSP & Servlet | Spring Framework | Springboot | MySql | Maven | React Js | JavaScript | Angular | HTML | CSS**
 
 - 📫 How to reach me **dipak_sinh@outlook.com**
 
