@@ -8,12 +8,21 @@
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
- <a href="https://twitter.com/singh_singh68" target="_blank"><img alt="Discord" title="Twitter" src="https://img.shields.io/badge/-Twitter-03a9f4?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/dipaksinh" target="_blank"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-1976d2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- <a href="https://stackoverflow.com/users/23340623"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/></a> -->
-  <!-- <a href="https://fb.com/dipaksinh2"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-1976d2?style=for-the-badge&logo=Facebook&logoColor=white"/></a> -->
-  <a href="https://instagram.com/kshatriya__dk" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/dipaksinh2" target="_blank"><img alt="Github" title="Github" src="https://img.shields.io/badge/Github-555555?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://twitter.com/singh_singh68" target="_blank">
+  <img alt="Discord" title="Twitter" src="https://img.shields.io/badge/-Twitter-03a9f4?style=for-the-badge&logo=twitter&logoColor=white"/>
+ </a>
+ <a href="https://linkedin.com/in/dipaksinh" target="_blank">
+  <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-1976d2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="https://stackoverflow.com/users/24465757">
+  <img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/>
+ </a>
+ <a href="https://www.hackerrank.com/profile/singhdk_singh68" target="_blank">
+  <img alt="HackerRank" title="HackerRank" src="https://img.shields.io/badge/hackerrank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge"/>
+</a>
+ <a href="https://github.com/dipaksinh2" target="_blank">
+  <img alt="Github" title="Github" src="https://img.shields.io/badge/Github-555555?style=for-the-badge&logo=github&logoColor=white"/>
+ </a>
 </p>
  
 ## Profile Views
